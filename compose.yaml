@@ -8,7 +8,7 @@ services:
     ports:
       - 80:80
     environment:
-      MONGODB_URI: mongodb+srv://littlesight9_db_user:<db_password>@cluster0.2kpi2t4.mongodb.net/
+      MONGODB_URI: mongodb+srv://littlesight9_db_user:nYz6SbQPVZio9LaB@cluster0.2kpi2t4.mongodb.net/
       ADMIN_PWD: <admin_password>
       MANAGER_PWD: <manager_password>
       CLIENT_PWD: <client_password>
